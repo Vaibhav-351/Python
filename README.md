@@ -1,9 +1,9 @@
 # Python_Assignement01_solution
-Q1.### 1. Write a Python program to print \"Hello Python\"?"
+**Q1.### 1. Write a Python program to print \"Hello Python\"?"
 
 print("Hello Python")
 
-Q2.### 2. Write a Python program to do arithmetical operations addition and division.?\n"
+**Q2.### 2. Write a Python program to do arithmetical operations addition and division.?\n"
 
 num1 = int(input("Enter number 1: \n"))
 num2 = int(input("Enter number 2: \n"))
@@ -19,7 +19,7 @@ print("Division remainder of",num1,'and',num2,"is :",division_remainder)
 
 
 
-Q3.### 3. Write a Python program to find the area of a triangle?\n"
+**Q3.### 3. Write a Python program to find the area of a triangle?\n"
 
 height = int(input("Enter height of triangle: \n"))
 base = int(input("Enter base of triangle: \n"))
@@ -29,7 +29,7 @@ print("Area of triangle is :",area_of_traingle,"meter square")
 
 
 
-Q4.### 4. Write a Python program to swap two variables?\n"
+**Q4.### 4. Write a Python program to swap two variables?\n"
 
 num1 = int(input("Enter number 1 : \n"))
 num2 = int(input("Enter number 2 : \n"))
@@ -51,7 +51,7 @@ print("Second number is:",num2)
 
 
 
-Q5.### 5. Write a Python program to generate a random number?\n"
+**Q5.### 5. Write a Python program to generate a random number?\n"
 
 import random #random module having radom function
 
