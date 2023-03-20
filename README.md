@@ -1,5 +1,6 @@
 # Python_Assignement01_solution
 Q1.### 1. Write a Python program to print \"Hello Python\"?"
+
 print("Hello Python")
 
 Q2.### 2. Write a Python program to do arithmetical operations addition and division.?\n"
